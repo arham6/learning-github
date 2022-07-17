@@ -24,9 +24,13 @@ M- modified
 
 git commit -m "message" ---- so that we don't have to open vim editor
 
-git log ----- shows us the commit history (all versions) of the project
+git log ----- shows us the commit history (all versions) of the project (type q to exit and type again from git log)
 
 ///
 
-git add -A
+git add -A---- to add all files in the folder
 
+git checkout id (the commit code)---- to move to some previous version
+
+git checkout master ----- takes us back to the latest version
+clear--- to clear the terminal
