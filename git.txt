@@ -8,13 +8,25 @@ git add ---- to put file in staging area
 
 git commit ---- to make a version of that file
 
+
+///in vim editor
 press i
 type message
 escape key
 :wq
 enter key
+////////////////
 
 
 U- untracked
 A- staging area
 M- modified
+
+git commit -m "message" ---- so that we don't have to open vim editor
+
+git log ----- shows us the commit history (all versions) of the project
+
+///
+
+git add -A
+
