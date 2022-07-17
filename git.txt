@@ -38,4 +38,4 @@ git branch branch_name ----- to make new branch
 
 after use 
 
-git check -b branch_name----- creates new branch and moves us to that branch
+git check -b branch_name----- creates new branch and moves us to that branch okay????
