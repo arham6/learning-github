@@ -35,3 +35,7 @@ git checkout master ----- takes us back to the latest version
 clear--- to clear the terminal
 
 git branch branch_name ----- to make new branch
+
+after use 
+
+git check -b branch_name----- creates new branch and moves us to that branch
