@@ -8,4 +8,13 @@ git add ---- to put file in staging area
 
 git commit ---- to make a version of that file
 
+press i
+type message
+escape key
+:wq
+enter key
 
+
+U- untracked
+A- staging area
+M- modified
