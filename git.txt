@@ -1,0 +1,11 @@
+git init ----- to make repository
+
+git status ----- to check which files are tracked and which are untracked
+
+files are pushed into staging area where we have to prepare a bundle of files to put inside a version  
+
+git add ---- to put file in staging area
+
+git commit ---- to make a version of that file
+
+
