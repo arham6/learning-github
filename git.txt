@@ -1,3 +1,5 @@
+git cheat sheet-- D:\WEB DEVELOPMENT\CB Web Development\References\Documentation\Git
+
 git init ----- to make repository
 
 git status ----- to check which files are tracked and which are untracked
