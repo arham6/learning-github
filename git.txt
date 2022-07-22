@@ -8,15 +8,13 @@ git add ---- to put file in staging area
 
 git commit ---- to make a version of that file
 
-
 ///in vim editor
 press i
 type message
 escape key
-:wq
+type-- :wq
 enter key
 ////////////////
-
 
 U- untracked
 A- staging area
@@ -26,27 +24,26 @@ git commit -m "message" ---- so that we don't have to open vim editor
 
 git log ----- shows us the commit history (all versions) of the project (type q to exit and type again from git log)
 
-git add -A---- to add all files in the folder
+git add -A ---- to add all files in the folder to the staging area
 
-git checkout id (the commit code)---- to move to some previous version
+git checkout id(the commit code) ---- to move to some previous version
 
 git checkout master ----- takes us back to the latest version
 
-clear--- to clear the terminal
+clear --- to clear the terminal
 
 git branch branch_name ----- to make new branch
 
-after use 
+git checkout -b branch_name----- creates new branch and moves us to that branch
 
-git checkout -b branch_name----- creates new branch and moves us to that branch okay????
+Merging the other branch into master(main) branch--- 
+type git checkout master to move from the other branch to the master branch then type git merge name_of_other_file
 
-Merging  (git checkout master     then     git merge updates)
-Resolving conflicts
 Deleting a branch  (git branch -D branch_name)
 
+Ctrl+l --- to clear terminal
 
-Ctrl+l(L) --- to clear terminal
-git checkout -D 
+Resolving conflicts
 
 
 
