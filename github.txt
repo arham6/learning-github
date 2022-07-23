@@ -1,0 +1,28 @@
+Origin – it’s the address to my github repository
+
+git remote add origin URL ---- to add origin
+
+git remote -v ---shows which are your origins
+
+git branch -M main ---- changes the name of the master branch to main
+
+git push origin main(branch_name)-->> adds the code to github
+
+Fork --- taking to code from main github system to your computer
+
+Clone --- getting files from github to your computer
+
+git clone repo_url   ---- to get repo from github to your system
+
+
+Steps to update code on github---
+
+1 banda github ki repo bnaega he’ll be the primary owner
+Other person will clone the repo
+Then we will create branches and make changes
+((settings-> collaborators)  Collaborators can make changes)
+Push the branch(changes) in the repo of the primary owner (git push owner branch_name)
+Generate pull request 
+Collaborators can merge the changes into main
+Move to main branch 
+Pull the latest github code to main branch (git pull owner branch_name)

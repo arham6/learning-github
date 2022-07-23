@@ -47,14 +47,20 @@ Ctrl+l --- to clear terminal
 
 git branch --- to check which branch we're currently on (starred and coloured green)
 
-Resolving conflicts
-
 to delete a git repository from a folder-- go to windows file explorer and see hidden files has a .git folder, delete it
 
 -Force .git/ --- to delete the the git file from a folder
 
+Origin – it’s the address to my github repository
+
 git remote add origin URL ---- to add origin
+
 git remote -v ---shows which are your origins
+
+git branch -M main ---- changes the name of the master branch to main
+
+git push origin main(branch_name)-->> adds the code to github
+
 
 
 
