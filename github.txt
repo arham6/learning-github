@@ -1,12 +1,14 @@
 Origin – it’s the address to my github repository
 
-git remote add origin URL ---- to add origin
+3 Steps to add code to github---
+
+1)   git remote add origin URL ---- to add origin
 
 git remote -v ---shows which are your origins
 
-git branch -M main ---- changes the name of the master branch to main
+2)   git branch -M main ---- changes the name of the master branch to main
 
-git push origin main(branch_name)-->> adds the code to github
+3)   git push origin main(branch_name)-->> adds the code to github
 
 Fork --- taking to code from main github system to your computer
 
