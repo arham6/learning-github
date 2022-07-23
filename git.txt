@@ -2,7 +2,7 @@ git cheat sheet-- D:\WEB DEVELOPMENT\CB Web Development\References\Documentation
 
 git init ----- to make repository
 
-git status ----- to check which files are tracked and which are untracked
+git status ----- to check which files are tracked and which are untracked && check if any changes are made on files
 
 files are pushed into staging area where we have to prepare a bundle of files to put inside a version  
 
@@ -44,6 +44,8 @@ type git checkout master to move from the other branch to the master branch then
 Deleting a branch  (git branch -D branch_name)
 
 Ctrl+l --- to clear terminal
+
+git branch --- to check which branch we're currently on (starred and coloured green)
 
 Resolving conflicts
 
