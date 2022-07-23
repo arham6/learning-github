@@ -49,5 +49,9 @@ git branch --- to check which branch we're currently on (starred and coloured gr
 
 Resolving conflicts
 
+to delete a git repository from a folder-- go to windows file explorer and see hidden files has a .git folder, delete it
+
+-Force .git/ --- to delete the the git file from a folder
+
 
 
