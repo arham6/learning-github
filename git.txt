@@ -53,5 +53,8 @@ to delete a git repository from a folder-- go to windows file explorer and see h
 
 -Force .git/ --- to delete the the git file from a folder
 
+git remote add origin URL ---- to add origin
+git remote -v ---shows which are your origins
+
 
 
